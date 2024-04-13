@@ -14,6 +14,8 @@ Projeto desenvolvido em Java, Spring Boot, Maven e MySQL, durante o curso [Sprin
 
 <h2>🚀 Funcionamento</h2>
 
-Inicialmente deve-se cadastrar o(s) usuário(s) e as autorizações (SELECT, INSERT, UPDATE e DELETE)em relação à tabela de Produtos.
+Inicialmente deve-se cadastrar o(s) usuário(s) e as autorizações (SELECT, INSERT, UPDATE e DELETE) em relação à tabela de Produtos.
 
-Ao tentar fazer umas das operações do CRUD em relação à tabela de Produtos, inicialmente o usuário e a senha são validados e, posteriormente, se o usuário tem autorização para executar a operação desejada.
+Ao tentar fazer umas das operações do CRUD em relação à tabela de Produtos, inicialmente o usuário e a senha são validados e, posteriormente, é verificado se o usuário tem autorização para executar a operação desejada.
+
+A operação somente será executada se o usuário for validado e tiver autorização para executar a operação desejada.
