@@ -1,4 +1,4 @@
-<h1>Projeto API-Rest</h1>
+<h1>Projeto Spring Boot 3 - Security</h1>
 
 Projeto desenvolvido em Java, Spring Boot, Maven e MySQL, durante o curso [Spring Security + Spring Boot 3 | Autenticação e Autorização](https://www.youtube.com/watch?v=bnQ5_LmA8wA) ministrado pelo instrutor [Neckel Tech](https://www.instagram.com/andreneckel/)
 
